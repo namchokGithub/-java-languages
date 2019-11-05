@@ -1,1 +1,2 @@
-# -java-languages
+# java-languages
+ฝึกเขียนภาษาจาวาจากโจทย์การบ้านเพื่อนสาขา CS 
