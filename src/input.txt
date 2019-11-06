@@ -1,0 +1,30 @@
+5
+Duck KabKab
+Chicken Chicky
+Dolphin Puppy
+Duck Ducky
+Ray Rainy
+
+2
+59160000 Susan 2.51
+59661111 Mark 1.8
+
+3
+58161234 Mary 1.7
+55667777 John 3.25
+56161111 Sue 2.12
+
+10.80.81.176 60160169_Namchok_Singhachai_NA_44
+10.80.81.176 60016089_Netchanok_Thaintin_NA_38
+10.80.81.176 60160152_Kawisara_Aumkhun_NA_37
+10.80.81.176 60160351_Wipawee_Inkham_NA_41
+
+8
+A C
+A E
+B C
+B C
+C E
+C C
+C C
+C C
